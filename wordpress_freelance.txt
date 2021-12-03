@@ -1,0 +1,14 @@
+Création agence web / dev / freelance
+
+Mettre en place, via WordPress et Elementor notamment, le site de votre propre agence web dev.
+-    Concevez l’identité de votre marque (Nom, logo simple, couleurs, polices, etc)
+-    Maquettez l’ensemble des éléments suivants :
+  o    Page principale
+  o    Services
+  o    Testimonials / Users cases
+  o    Blog / News / Conseils
+  o    Contact
+  o    Pop-up de recueil des informations
+  o    Pages légales
+-    Concevez les éléments directement sur via votre installation WP locale
+-    SEO : respectez l’ensemble des règles de référencement afin de donner à votre réalisation une visibilité optimale.
